@@ -1,0 +1,15 @@
+1 
+ALI 
+34 
+2 
+UMER 
+35 
+4 
+HERO 
+36 
+3 
+KILLER 
+37 
+5 
+NAMAZO 
+1 

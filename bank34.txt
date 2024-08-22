@@ -1,0 +1,8 @@
+ali 123 m 3000
+yasir 234 m 3400
+umer 145 m 7890
+abdulrehman 156 m 9999
+raza 167 m 9800
+fatima 18 f 8009
+iqra 101 f 3900
+
